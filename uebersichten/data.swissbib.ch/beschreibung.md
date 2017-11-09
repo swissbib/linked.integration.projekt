@@ -8,3 +8,6 @@ Zusammenspiel der Komponenten an der Schnittstelle zwischen Elasticsearch-Backen
 und esAdapter Komponente für data.swissbib.ch)
 Bisher wird nur die Seite VuFind Modul betrachtet. https://github.com/linked-swissbib/adapterElasticsearch 
 ist noch icht integriert  
+
+3) Dokumentationsmaterial Markaus / Melanie
+http://swissbib.org/doc/lod/data.swissbib.doc.zip
